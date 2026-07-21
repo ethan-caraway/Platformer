@@ -30,6 +30,7 @@
     {"name":"spr_cloud_2","order":3,"path":"sprites/spr_cloud_2/spr_cloud_2.yy",},
     {"name":"spr_fall","order":5,"path":"sprites/spr_fall/spr_fall.yy",},
     {"name":"spr_gradient","order":6,"path":"sprites/spr_gradient/spr_gradient.yy",},
+    {"name":"spr_grass_tiles","order":1,"path":"sprites/spr_grass_tiles/spr_grass_tiles.yy",},
     {"name":"spr_hills_2","order":1,"path":"sprites/spr_hills_2/spr_hills_2.yy",},
     {"name":"spr_idle_2","order":1,"path":"sprites/spr_idle_2/spr_idle_2.yy",},
     {"name":"spr_jump_fall","order":6,"path":"sprites/spr_jump_fall/spr_jump_fall.yy",},
