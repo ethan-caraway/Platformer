@@ -39,5 +39,6 @@
     {"name":"spr_pickup_heart","order":1,"path":"sprites/spr_pickup_heart/spr_pickup_heart.yy",},
     {"name":"spr_star","order":4,"path":"sprites/spr_star/spr_star.yy",},
     {"name":"spr_walk","order":2,"path":"sprites/spr_walk/spr_walk.yy",},
+    {"name":"ts_grass","order":1,"path":"tilesets/ts_grass/ts_grass.yy",},
   ],
 }

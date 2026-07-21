@@ -67,6 +67,7 @@
     {"id":{"name":"spr_star","path":"sprites/spr_star/spr_star.yy",},},
     {"id":{"name":"spr_walk","path":"sprites/spr_walk/spr_walk.yy",},},
     {"id":{"name":"ts_collisions","path":"tilesets/ts_collisions/ts_collisions.yy",},},
+    {"id":{"name":"ts_grass","path":"tilesets/ts_grass/ts_grass.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
