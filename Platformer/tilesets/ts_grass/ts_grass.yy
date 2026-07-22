@@ -3,9 +3,13 @@
   "%Name":"ts_grass",
   "autoTileSets":[],
   "macroPageTiles":{
-    "SerialiseHeight":0,
-    "SerialiseWidth":0,
-    "TileSerialiseData":[],
+    "SerialiseHeight":11,
+    "SerialiseWidth":9,
+    "TileCompressedData":[
+      18,10,11,0,2,3,0,42,43,44,24,25,0,16,17,0,56,57,58,-6,0,8,70,71,72,8,9,0,12,13,-4,0,7,22,23,0,26,27,
+      0,74,-11,0,13,4,5,6,7,0,0,75,0,76,18,19,20,21,-14,0,5,4,5,0,6,7,-4,0,5,18,19,0,20,21,-4,0,
+    ],
+    "TileDataFormat":1,
   },
   "name":"ts_grass",
   "out_columns":9,
