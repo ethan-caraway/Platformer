@@ -43,7 +43,7 @@ anim_speed = 0.7;
 /// @DnDHash : 2DD96B01
 /// @DnDArgument : "imageind_relative" "1"
 /// @DnDArgument : "spriteind" "spr_idle_1"
-/// @DnDSaveInfo : "spriteind" "63beb5fa-e624-4a44-a125-c7d91ebd2c22"
+/// @DnDSaveInfo : "spriteind" "spr_idle_1"
 sprite_index = spr_idle_1;
 image_index += 0;
 
@@ -52,3 +52,9 @@ image_index += 0;
 /// @DnDHash : 463803DC
 /// @DnDArgument : "speed" "anim_speed"
 image_speed = anim_speed;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 7E4C5C7A
+/// @DnDArgument : "var" "pickup_score"
+pickup_score = 0;
